@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Awesome Gnome
+Comment=Dynamic Window Manager
+Exec=gnome-session --session=awesome
+TryExec=awesome
+Type=application
+X-LightDm-DesktopName=Awesome GNOME
+X-Ubuntu-Gettext-Domain=gnome-session-3.0
